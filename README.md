@@ -1,3 +1,3 @@
 # In-Game Console
 
-A free In-Game Console provided by Bit Bunny Games, visit us at our facebook www.facebook.com/BitBunnyGames or our website http://www.bitbunnygames.com/
+A free In-Game Console, providing basic error and log info. Provided by Bit Bunny Games, visit us at our facebook www.facebook.com/BitBunnyGames or our website http://www.bitbunnygames.com/
